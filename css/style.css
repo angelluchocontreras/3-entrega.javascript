@@ -1,0 +1,8 @@
+/* Estilos generales */
+.colorBody {
+  background-color: rgba(181, 181, 181, 0.241);
+}
+
+#botonCarrito {
+  margin: 100px;
+}
